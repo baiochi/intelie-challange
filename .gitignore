@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# custom files
+Data Scientist Challenge.pdf
+data/challenge_annotation.csv
+data/challenge_data.csv
+data/metadata.txt
