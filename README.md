@@ -1,4 +1,4 @@
-# intelie-challange
+# intelie-challenge
 Intelie Data Scientist Challenge
 
 # Introduction
